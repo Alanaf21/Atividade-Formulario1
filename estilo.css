@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#titulo{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(250, 10, 146);
+    margin-left: 7%;
+
+}
+#subtitulo{
+    font-family: sans-serif;
+    color: #f280cc;
+    margin-left: 10%;
+}
+fieldset{
+    border:1;
+}
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/textura-de-papel-de-fundo-aquarela-lilas_627530-148.jpg?w=2000);
+    background-image: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: azure;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    margin-left: 1%;
+    margin-top: 1%;
+    justify-content: center;
+}
